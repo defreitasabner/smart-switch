@@ -1,7 +1,8 @@
 #include <Arduino.h>
 #pragma once
 
-class Wifi {
+class Wifi 
+{
     private:
         String _ssid;
         String _password;
